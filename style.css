@@ -1,0 +1,159 @@
+.container {
+    border: 0.3px black;
+    border-style: groove;
+    width: 1513px;
+    height: 47px;
+    padding: 0;
+    margin: 0;
+    position: fixed;
+    margin-top: -50px;
+    background-color: whitesmoke;
+}
+
+.container ul li {
+    display: inline;
+    padding: 10px;
+    
+}
+
+.container ul {
+    margin-left: 150px;
+    margin-top: -33px;
+    font-weight: bold;
+}
+
+.btn {
+    margin-left: 1050px;
+    margin-top: -35px;
+    
+}
+
+.left {
+    height: 595px;
+    width: 200px;
+    border: 0.2px black;
+    border-style: groove;
+    /* overflow: auto; */
+    /* padding: 0; */
+    margin-top: 50px;
+    background-color:whitesmoke;
+    z-index: 0;
+    
+}
+
+
+
+.right {
+    margin-left: 202px;
+    width: 1316px;
+    height: 1180px;
+    margin-top: -596px;
+    border: 0.2px black;
+    border-style: groove;
+}
+
+.left ul li {
+    display: block;
+    margin: 17px;
+    font-weight: bold;
+}
+
+.left ul {
+    margin-bottom: 35px;
+    margin-top: 44px;
+}
+
+.left button {
+    margin-top: 10px;
+    margin-left: 33px;
+    border: 2px aqua;
+    border-style: groove;
+    border-radius: 30px;
+    font-size: large;
+    color: rgb(39, 94, 94);
+    background-color: transparent;
+    margin-bottom: 5px;
+    cursor: pointer;
+    
+}
+
+.footer {
+    border: 2px black;
+    border-style: groove;
+    position: sticky;
+    bottom: 0px;
+    width: 1522px;
+    height: 49px;
+    margin-top: 0px;
+    background-color: white;
+}
+
+.footer ul li {
+    display: inline;
+    margin: 7px;
+}
+
+.footer ul {
+    margin-left: 600px;
+}
+
+
+.right h2 {
+    margin-left: 25px;
+}
+
+.right .first {
+    padding: 20px;
+    margin-left: 10px;
+cursor: pointer;
+
+}
+
+
+.first img {
+    margin-left: 30px;
+    width: 215px;
+    height: 215px;
+
+}
+
+.right .third {
+    padding: 20px;
+    margin-left: 10px; cursor: pointer;
+
+}
+.third img {
+    margin-left: 40px;
+    width: 215px;
+    height: 215px;
+
+}
+.right .fourth {
+    padding: 20px;
+    margin-left: 15px; cursor: pointer;
+
+}
+.fourth img {
+    margin-left: 40px;
+    width: 215px;
+    height: 215px;
+
+}
+div .last {
+    display:flex;
+    flex-direction: column;
+    padding: 30px;
+    color: rgb(82, 78, 78);
+}
+div.lastt{
+    display: flex;
+    flex-direction: column;
+    margin-left: 900px;
+    margin-top: -140px;  color: rgb(82, 78, 78); 
+}
+div.lasttt{
+    display: flex;
+    flex-direction: column;
+    margin-left: 500px;
+    margin-top: -95px;  color: rgb(82, 78, 78);
+}
